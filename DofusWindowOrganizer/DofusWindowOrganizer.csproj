@@ -8,4 +8,9 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="H.NotifyIcon.Wpf" Version="2.4.1" />
+      <PackageReference Include="ModPlus.GongSolutions.WPF.DragDrop" Version="4.1.0" />
+    </ItemGroup>
+
 </Project>
